@@ -1,1 +1,4 @@
 # ConfigExercise
+```
+ruby main.rb
+```
